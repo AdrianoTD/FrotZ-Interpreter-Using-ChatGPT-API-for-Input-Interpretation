@@ -16,3 +16,5 @@ Como instalar e jogar:
 - Realize o comando "python3 server.py"
 - Agora o servidor estará aberto e esperando por comandos
 - Volte ao terminal do FrotZ e comece a jogar. Veja que no terminal do servidor aparecerão as informações para acompanhar o procedimento de interpretação dos comandos
+
+Os arquivos "dinput.c" e "doutput.c" são apenas para visualização dos ajustes da socket dentro do código. Eles já estão inclusos e ajustados dentro do .zip do frotz-master.
