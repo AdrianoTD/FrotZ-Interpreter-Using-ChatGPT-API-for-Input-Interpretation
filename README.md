@@ -1,7 +1,5 @@
 # FrotZ Interpreter With ChatGPT API
 
-
-
 How to install and play:
 
 - Download all the files on a Linux system;
@@ -26,7 +24,7 @@ The files "dinput.c" and "doutput.c" are only for viewing the socket adjustments
 
 
 
-
+----------------------------------------------------------------------------------------------------------
 
 
 
