@@ -22,6 +22,14 @@ How to install and play:
 
 The files "dinput.c" and "doutput.c" are only for viewing the socket adjustments within the code. They are already included and adjusted within the frotz-master.zip.
 
+
+
+
+
+
+
+
+
 Como instalar e jogar:
 - Baixe todos os arquivos em um sistema Linux;
 - Extraia a pasta frotz-master.zip;
