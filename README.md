@@ -1,4 +1,4 @@
-# TCC
+# FrotZ Interpreter With ChatGPT API
 
 Como instalar e jogar:
 - Baixe todos os arquivos em um sistema Linux;
